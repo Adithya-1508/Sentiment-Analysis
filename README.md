@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-TwitterSentiment Analysis- LSTM Neural Networks
+Twitter Sentiment Analysis- LSTM Neural Networks
